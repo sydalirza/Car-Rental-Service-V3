@@ -26,15 +26,15 @@ Our project consists of two major elements:
 
 # Screenshots
 # Sign Up Screen
--[Sign Up Screen](https://github.com/sydalirza/Car-Rental-Service-V3/blob/main/SignUp.png)
+-![Sign Up Screen](https://github.com/sydalirza/Car-Rental-Service-V3/blob/main/SignUp.png)
 # Login Screen
--[Login Screen](https://github.com/sydalirza/Car-Rental-Service-V3/blob/main/Login.png)
+-![Login Screen](https://github.com/sydalirza/Car-Rental-Service-V3/blob/main/Login.png)
 # Main Menu
--[Main Menu](https://github.com/sydalirza/Car-Rental-Service-V3/blob/main/Main Menu.png)
+-![Main Menu](https://github.com/sydalirza/Car-Rental-Service-V3/blob/main/Main%20Menu.png)
 # Booking Services
--[Booking Menu](https://github.com/sydalirza/Car-Rental-Service-V3/blob/main/Booking Menu.png)
+-[Booking Menu](https://github.com/sydalirza/Car-Rental-Service-V3/blob/main/Booking%20Menu.png)
 # Booking Verification
--[Booking Menu](https://github.com/sydalirza/Car-Rental-Service-V3/blob/main/Booking Verification.png)
+-[Booking Menu](https://github.com/sydalirza/Car-Rental-Service-V3/blob/main/Booking%20Verification.png)
 # View Booking 
 -[Booking Menu](https://github.com/sydalirza/Car-Rental-Service-V3/blob/main/ViewBooking.png)
 # Vehicle Menu
