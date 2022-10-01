@@ -36,11 +36,11 @@ Our project consists of two major elements:
 # Booking Verification
 -![Booking Menu](https://github.com/sydalirza/Car-Rental-Service-V3/blob/main/Booking%20Verification.png)
 # View Booking 
--![Booking Menu](https://github.com/sydalirza/Car-Rental-Service-V3/blob/main/ViewBooking.png)
+-![Booking Menu](https://github.com/sydalirza/Car-Rental-Service-V3/blob/main/ViewBookings.png)
 # Vehicle Menu
 -![Vehicle Menu](https://github.com/sydalirza/Car-Rental-Service-V3/blob/main/VehicleMenu.png)
 # Add New Vehicle
--![Enter Vehicle](https://github.com/sydalirza/Car-Rental-Service-V3/blob/main/EnterVehicle.png)
+-![Enter Vehicle](https://github.com/sydalirza/Car-Rental-Service-V3/blob/main/VehicleEnter.png)
 
 Collaborators
 - Syed Musaib Hussain
